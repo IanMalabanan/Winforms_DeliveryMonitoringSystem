@@ -1,0 +1,70 @@
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb
+E:\JigControlSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+E:\JigControlSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+E:\JigControlSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+E:\JigControlSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+E:\JigControlSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+E:\JigControlSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+E:\JigControlSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb
+E:\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+E:\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+E:\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+E:\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+E:\ITServiceSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+E:\ITServiceSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+E:\ITServiceSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb
+D:\DeliveryMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+D:\DeliveryMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+D:\DeliveryMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+D:\DeliveryMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+D:\DeliveryMonitoringSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+D:\DeliveryMonitoringSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+D:\DeliveryMonitoringSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb

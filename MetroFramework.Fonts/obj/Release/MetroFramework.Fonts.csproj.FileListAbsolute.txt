@@ -1,0 +1,6 @@
+C:\Users\ian.malabanan\Desktop\August 12 2016 Projects\PTS\ProductionTrainingSystem\MetroFramework.Fonts\bin\Release\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Desktop\August 12 2016 Projects\PTS\ProductionTrainingSystem\MetroFramework.Fonts\bin\Release\MetroFramework.Fonts.pdb
+C:\Users\ian.malabanan\Desktop\August 12 2016 Projects\PTS\ProductionTrainingSystem\MetroFramework.Fonts\bin\Release\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\August 12 2016 Projects\PTS\ProductionTrainingSystem\MetroFramework.Fonts\obj\Release\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\August 12 2016 Projects\PTS\ProductionTrainingSystem\MetroFramework.Fonts\obj\Release\MetroFramework.Fonts.dll
+C:\Users\ian.malabanan\Desktop\August 12 2016 Projects\PTS\ProductionTrainingSystem\MetroFramework.Fonts\obj\Release\MetroFramework.Fonts.pdb

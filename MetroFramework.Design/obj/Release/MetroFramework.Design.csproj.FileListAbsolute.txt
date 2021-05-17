@@ -1,0 +1,6 @@
+C:\Users\ian.malabanan\Desktop\August 12 2016 Projects\PTS\ProductionTrainingSystem\MetroFramework.Design\bin\Release\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Desktop\August 12 2016 Projects\PTS\ProductionTrainingSystem\MetroFramework.Design\bin\Release\MetroFramework.Design.pdb
+C:\Users\ian.malabanan\Desktop\August 12 2016 Projects\PTS\ProductionTrainingSystem\MetroFramework.Design\bin\Release\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\August 12 2016 Projects\PTS\ProductionTrainingSystem\MetroFramework.Design\obj\Release\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\August 12 2016 Projects\PTS\ProductionTrainingSystem\MetroFramework.Design\obj\Release\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Desktop\August 12 2016 Projects\PTS\ProductionTrainingSystem\MetroFramework.Design\obj\Release\MetroFramework.Design.pdb

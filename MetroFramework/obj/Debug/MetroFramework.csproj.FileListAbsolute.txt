@@ -1,0 +1,97 @@
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework\obj\Debug\MetroFramework.Controls.MetroTextBox.resources
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroTextBox.resources
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroTextBox.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+E:\JigControlSystem\MetroFramework\bin\Debug\MetroFramework.dll
+E:\JigControlSystem\MetroFramework\bin\Debug\MetroFramework.pdb
+E:\JigControlSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+E:\JigControlSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroTextBox.resources
+E:\JigControlSystem\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+E:\JigControlSystem\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+E:\JigControlSystem\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+E:\JigControlSystem\MetroFramework\obj\Debug\MetroFramework.dll
+E:\JigControlSystem\MetroFramework\obj\Debug\MetroFramework.pdb
+E:\ITServiceSystem\MetroFramework\bin\Debug\MetroFramework.dll
+E:\ITServiceSystem\MetroFramework\bin\Debug\MetroFramework.pdb
+E:\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+E:\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroTextBox.resources
+E:\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+E:\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+E:\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+E:\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.dll
+E:\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.pdb
+E:\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroTextBox.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroTextBox.resources
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroTextBox.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework\obj\Debug\MetroFramework.pdb
+D:\DeliveryMonitoringSystem\MetroFramework\bin\Debug\MetroFramework.dll
+D:\DeliveryMonitoringSystem\MetroFramework\bin\Debug\MetroFramework.pdb
+D:\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+D:\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroTextBox.resources
+D:\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+D:\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+D:\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+D:\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.dll
+D:\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.Controls.MetroTextBox.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache

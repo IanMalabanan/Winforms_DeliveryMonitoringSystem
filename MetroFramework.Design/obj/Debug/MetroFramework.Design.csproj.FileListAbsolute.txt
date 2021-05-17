@@ -1,0 +1,70 @@
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Downloads\metroframework-modern-ui-master\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Documents\Visual Studio 2013\Projects\QCPartsMonitoringSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\QCPartsMonitoringSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+E:\JigControlSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+E:\JigControlSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+E:\JigControlSystem\MetroFramework.Design\bin\Debug\MetroFramework.dll
+E:\JigControlSystem\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+E:\JigControlSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+E:\JigControlSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+E:\JigControlSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+E:\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+E:\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+E:\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.dll
+E:\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+E:\ITServiceSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+E:\ITServiceSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+E:\ITServiceSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Ian Malabanan\Desktop\ITServiceSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\ITServiceSystem\ITServiceSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+D:\DeliveryMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+D:\DeliveryMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+D:\DeliveryMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.dll
+D:\DeliveryMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+D:\DeliveryMonitoringSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+D:\DeliveryMonitoringSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+D:\DeliveryMonitoringSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb

@@ -1,0 +1,14 @@
+D:\DeliveryMonitoringSystem\ClsLibConnection\bin\Debug\ClsLibConnection.dll
+D:\DeliveryMonitoringSystem\ClsLibConnection\bin\Debug\ClsLibConnection.pdb
+D:\DeliveryMonitoringSystem\ClsLibConnection\obj\Debug\ClsLibConnection.dll
+D:\DeliveryMonitoringSystem\ClsLibConnection\obj\Debug\ClsLibConnection.pdb
+D:\DeliveryMonitoringSystem\ClsLibConnection\obj\Debug\ClsLibConnection.Properties.Resources.resources
+D:\DeliveryMonitoringSystem\ClsLibConnection\obj\Debug\ClsLibConnection.csproj.GenerateResource.Cache
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\ClsLibConnection\bin\Debug\ClsLibConnection.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\ClsLibConnection\bin\Debug\ClsLibConnection.pdb
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\ClsLibConnection\obj\Debug\ClsLibConnection.Properties.Resources.resources
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\ClsLibConnection\obj\Debug\ClsLibConnection.csproj.GenerateResource.Cache
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\ClsLibConnection\obj\Debug\ClsLibConnection.dll
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\ClsLibConnection\obj\Debug\ClsLibConnection.pdb
+D:\DeliveryMonitoringSystem\ClsLibConnection\obj\Debug\ClsLibConnection.csprojResolveAssemblyReference.cache
+C:\Users\ian.malabanan\Desktop\ISOAP\DeliveryMonitoringSystem\ClsLibConnection\obj\Debug\ClsLibConnection.csprojResolveAssemblyReference.cache
